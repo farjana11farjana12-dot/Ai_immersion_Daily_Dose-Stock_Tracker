@@ -1,0 +1,6 @@
+{
+  "name": "Daily Dose & Stock Tracker",
+  "description": "A smart dosage schedule, inventory level monitor, and low-quantity notification manager with dose logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
